@@ -1,4 +1,4 @@
-# Pydantic AI: GitHub Repository Analysis Agent
+# Pydantic AI: GitHub Repo AI Agent
 
 An intelligent GitHub repository analysis agent built using Pydantic AI, capable of analyzing GitHub repositories to answer user questions. The agent can fetch repository information, explore directory structures, and analyze file contents using the GitHub API.
 
